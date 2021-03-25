@@ -5,7 +5,7 @@
       {
         "input": "loan_amnt",
         "col": "funded_amnt",
-        "num": 3000,
+        "num": 6000,
         "operator": "\u003e  [number]"
       }
     ]
